@@ -1,0 +1,19 @@
+﻿.style1 {
+    background-color: dimgrey;
+    box-shadow: grey;
+    color: #fff;
+    width: 100%;
+    border: dashed;
+}
+.style2 {
+    background-color: dimgrey;
+    box-shadow: grey;
+    color: white;
+    width: 100%;
+    border: dashed;
+}
+.fondo {
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
